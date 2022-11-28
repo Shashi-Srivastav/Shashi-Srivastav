@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="center" width "500" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-srivastav" /> </p>
 
