@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en" alt="shashi-srivastav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&" alt="shashi-srivastav" /></p>
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
