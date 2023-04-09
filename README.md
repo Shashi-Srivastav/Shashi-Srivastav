@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">I am tech enthusiast and love coding.</h3>
 <img align="center" width "500" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-srivastav" /> </p>
+
 
 <div align="right">
-<img width = "500"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" style="width: 100%" />
+<img width = "500"src="https://uploads-ssl.webflow.com/635e632477408d12d1811a64/64062c5a083e545615ea9f2b_Programming-3-1.gif" align="right" style="width: 100%" />
 </div>  
 
 - 🔭 I’m currently studying **BTech, Information Technology**
@@ -25,14 +25,32 @@
 
 
 <a href="https://https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="python" width="40" height="40"/> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-srivastav" /> </p>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Shashi-Srivastav&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashi-srivastav&theme=radical"  display=block width=70% height=auto  alt="1" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&layout=compact" alt="shashi-srivastav" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&" alt="shashi-srivastav" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=radical" alt="shashi-srivastav" /></p>
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&theme=radical&layout=compact" alt="shashi-srivastav" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&theme=radical" alt="shashi-srivastav" /></p>
+
+
+
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+
+
+
+
+
+
+
+
