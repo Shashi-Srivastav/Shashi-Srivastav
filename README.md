@@ -33,7 +33,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&theme=radical&layout=compact" alt="shashi-srivastav" /></p>
+<<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&theme=radical&layout=compact" alt="shashi-srivastav" /></p>
 
 
 
