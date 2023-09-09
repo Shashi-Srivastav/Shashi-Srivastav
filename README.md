@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying **BTech, Information Technology**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning DSA in **C++**
 
 - 📫 How to reach me **shashisrivastav95@gmail.com**
 
