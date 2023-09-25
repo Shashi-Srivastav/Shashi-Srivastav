@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
 <h3 align="center">I am tech enthusiast and love coding.</h3>
-<img align="center" width "300" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="center" width "250" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 
 
