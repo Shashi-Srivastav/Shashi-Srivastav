@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
 <h3 align="center">I am tech enthusiast and love coding.</h3>
 <img align="center" width "250" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
@@ -5,7 +6,7 @@
 
 
 <div align="right">
-<img width = "500"src="https://uploads-ssl.webflow.com/635e632477408d12d1811a64/64062c5a083e545615ea9f2b_Programming-3-1.gif" align="right" style="width: 100%" />
+<img width = "500"src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" />
 </div>  
 
 - 🔭 I’m currently studying **BTech, Information Technology**
@@ -59,4 +60,4 @@
 
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
+</div><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
