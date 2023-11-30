@@ -56,7 +56,7 @@
 
 
 
-![snake gif](https://github.com/shashi-srivastav/shashi-srivastav/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Shashi-Srivastav/Shashi-Srivastav/blob/output/github-user-contribution.svg)
 
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
