@@ -31,8 +31,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<!--<a href="https://https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="python" width="40" height="40"/> </a>
--->
+
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/shashi-srivastav">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+</div>
+
+
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=shashi-srivastav&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shashi-srivastav)<br><br>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-srivastav" /> </p>
 
@@ -52,12 +62,9 @@
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=shashi-srivastav&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shashi-srivastav)<br><br>
+
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
-
-
 
 
 
