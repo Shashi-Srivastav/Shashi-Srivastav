@@ -1,5 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Shashi-Srivastav">
+  <img src="https://profile-counter.glitch.me/Shashi-Srivastav/count.svg" />
+  </a>
+</p>
 <h3 align="center">I am tech enthusiast and love coding.</h3>
 <img align="center" width "250" src"https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
