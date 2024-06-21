@@ -73,7 +73,9 @@
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31locjcrlpw6e4bmgcjp56kb4ziy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31locjcrlpw6e4bmgcjp56kb4ziy" alt="Data Card for Spotify">
+</a>
 
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 </div><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
