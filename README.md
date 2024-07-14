@@ -10,8 +10,11 @@
   <a href="https://github.com/Shashi-Srivastav">
   <img src="https://profile-counter.glitch.me/Shashi-Srivastav/count.svg" />
   </a>
+  
 </p>
 
+
+<!--<img width = "400"src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" />-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -23,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20India.webp" alt="Flag India" width="100" height="100" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/shashi-srivastava01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashi-srivastava01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashisrivastav95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shashisrivastav95" height="30" width="40" /></a>
 </p>
@@ -39,7 +43,7 @@
 <a style="" href="https://github.com/shashi-srivastav">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-srivastav&show_icons=true&theme=dark&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-  <img width = "400"src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" />
+  
 </div>
 
 
