@@ -1,3 +1,6 @@
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" >
 <h1 align="center">Hi 👋, I'm Shashi Srivastava</h1>
 
@@ -54,23 +57,16 @@
 [![](https://github-profile-trophy.vercel.app/?username=shashi-srivastav&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shashi-srivastav)<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashi-srivastav&theme=dark&hide"  display=block width=70% height=auto  alt="1" >
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=dark&hide" alt="shashi-srivastav" /></p>
-
-
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shashi-srivastav&show_icons=true&locale=en&theme=dark&layout=compact" alt="shashi-srivastav" /></p>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=dark&hide" alt="shashi-srivastav" />
 
 
 
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&theme=dark&hide_border=false)
 
-<!--<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31locjcrlpw6e4bmgcjp56kb4ziy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>-->
-
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&theme=dark&hide_border=false)<br/>
+## 📊 Top  Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-srivastav&langs_count=14&theme=dark&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shashi-srivastav&limit=5&theme=dark&combine_all_yearly_contributions=true)
