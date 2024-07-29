@@ -54,13 +54,19 @@
 
 
 ## 🏆 GitHub Trophies
+
 [![](https://github-profile-trophy.vercel.app/?username=shashi-srivastav&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/shashi-srivastav)<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashi-srivastav&theme=dark&hide"  display=block width=70% height=auto  alt="1" >
+<div>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=dark&hide" alt="shashi-srivastav" />
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashi-srivastav&show_icons=true&locale=en&&theme=dark&hide" alt="shashi-srivastav" />
+</div>
 
 
-
+<div align="center">
+  <h1>⚡Activity Graph</h1>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shashi-srivastav&theme=merko"/> 
+</div>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shashi-srivastav&theme=dark&hide_border=false)
